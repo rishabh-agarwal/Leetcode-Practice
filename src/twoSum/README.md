@@ -14,5 +14,5 @@ return [0, 1].
 
 
 
-![](images/twosum.png)
+![](https://github.com/rishabh-agarwal/Leetcode-Practice/blob/master/images/twosum.png)
 

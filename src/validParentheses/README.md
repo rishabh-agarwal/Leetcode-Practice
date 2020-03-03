@@ -30,3 +30,4 @@ Example 5:
 Input: "{[]}"
 Output: true
 ```
+![](https://github.com/rishabh-agarwal/Leetcode-Practice/blob/master/images/validParantheses.png)
